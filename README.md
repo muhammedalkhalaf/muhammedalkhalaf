@@ -46,7 +46,7 @@ I build advanced **R packages** for time-series and panel-data econometrics — 
 
 <div align="center">
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=muhammedalkhalaf&show_icons=true&theme=default)
+![GitHub stats](https://github-stats-extended.vercel.app/api?username=muhammedalkhalaf&show_icons=true&theme=default)
 
 📍 Saudi Arabia &nbsp;|&nbsp; 🌐 [rufyqelngeh.com](http://www.rufyqelngeh.com)
 
