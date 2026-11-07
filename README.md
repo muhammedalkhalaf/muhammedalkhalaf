@@ -93,6 +93,6 @@ All packages are archived on [Zenodo](https://zenodo.org/search?q=muhammedalkhal
 
 ![GitHub stats](https://github-stats-extended.vercel.app/api?username=muhammedalkhalaf&show_icons=true&theme=default)
 
-📍 Saudi Arabia &nbsp;|&nbsp; 🌐 [rufyqelngeh.com](http://www.rufyqelngeh.com)
+🌐 [rufyqelngeh.com](http://www.rufyqelngeh.com)
 
 </div>
