@@ -21,7 +21,7 @@ I build advanced **R packages** for time-series and panel-data econometrics with
 
 ---
 
-## 📦 R Packages on CRAN (23) | حزم R المنشورة على CRAN
+## 📦 R Packages on CRAN (24) | حزم R المنشورة على CRAN
 
 **ARDL family**
 
@@ -41,6 +41,7 @@ I build advanced **R packages** for time-series and panel-data econometrics with
 | [**cointests**](https://cran.r-project.org/package=cointests) | Comprehensive Cointegration Tests with Fourier and Panel Methods | [repo](https://github.com/muhammedalkhalaf/cointests) |
 | [**cointsmall**](https://cran.r-project.org/package=cointsmall) | Cointegration Tests with Structural Breaks in Small Samples | [repo](https://github.com/muhammedalkhalaf/cointsmall) |
 | [**hatemicoint**](https://cran.r-project.org/package=hatemicoint) | Hatemi-J Cointegration Test with Two Unknown Regime Shifts | [repo](https://github.com/muhammedalkhalaf/hatemicoint) |
+| [**makicoint**](https://cran.r-project.org/package=makicoint) | Maki Cointegration Test with Multiple Structural Breaks | [repo](https://github.com/muhammedalkhalaf/makicoint) |
 | [**xtdhcoint**](https://cran.r-project.org/package=xtdhcoint) | Durbin-Hausman Panel Cointegration Tests | [repo](https://github.com/muhammedalkhalaf/xtdhcoint) |
 | [**xtbreakcoint**](https://cran.r-project.org/package=xtbreakcoint) | Panel Cointegration Tests with Structural Breaks | [repo](https://github.com/muhammedalkhalaf/xtbreakcoint) |
 
@@ -73,7 +74,7 @@ I build advanced **R packages** for time-series and panel-data econometrics with
 
 All packages are archived on [Zenodo](https://zenodo.org/search?q=muhammedalkhalaf) and linked to my [ORCID](https://orcid.org/0009-0002-2677-9246).
 
-> **Superseded repositories.** At the CRAN team's request several smaller packages were merged into larger ones: `aardl`, `rardl`, `pnardl` and `mtnardl` into **ardlverse**; `fcoint` and `xtcadfcoint` into **cointests**. Their GitHub repositories are kept for reference only; please install the CRAN packages above.
+> **Superseded repositories.** At the CRAN team's request several smaller packages were merged into larger ones: `aardl`, `fbnardl`, `mtnardl`, `pnardl` and `rardl` into **ardlverse**; `fcoint` and `xtcadfcoint` into **cointests**. Their GitHub repositories are kept for reference only; please install the CRAN packages above.
 
 ---
 
