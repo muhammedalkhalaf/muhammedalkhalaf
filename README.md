@@ -6,6 +6,8 @@
 
 [![Website](https://img.shields.io/badge/Website-rufyqelngeh.com-blue?style=flat-square)](http://www.rufyqelngeh.com)
 [![ORCID](https://img.shields.io/badge/ORCID-0009--0002--2677--9246-a6ce39?style=flat-square&logo=orcid&logoColor=white)](https://orcid.org/0009-0002-2677-9246)
+[![Google Scholar](https://img.shields.io/badge/Google%20Scholar-Profile-4285F4?style=flat-square&logo=googlescholar&logoColor=white)](https://scholar.google.com/citations?user=oKXBzlMAAAAJ)
+[![ResearchGate](https://img.shields.io/badge/ResearchGate-Profile-00CCBB?style=flat-square&logo=researchgate&logoColor=white)](https://www.researchgate.net/profile/Muhammad-Al-Khalaf)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat-square&logo=linkedin)](https://linkedin.com/in/muhammed-al-khalaf)
 [![Twitter](https://img.shields.io/badge/Twitter-@Mhd__alkhalaf-1DA1F2?style=flat-square&logo=twitter&logoColor=white)](https://twitter.com/Mhd_alkhalaf)
 
