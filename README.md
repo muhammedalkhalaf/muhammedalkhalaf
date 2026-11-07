@@ -21,7 +21,7 @@ I build advanced **R packages** for time-series and panel-data econometrics with
 
 ---
 
-## 📦 R Packages on CRAN (24) | حزم R المنشورة على CRAN
+## 📦 R Packages on CRAN (23) | حزم R المنشورة على CRAN
 
 **ARDL family**
 
@@ -41,7 +41,6 @@ I build advanced **R packages** for time-series and panel-data econometrics with
 | [**cointests**](https://cran.r-project.org/package=cointests) | Comprehensive Cointegration Tests with Fourier and Panel Methods | [repo](https://github.com/muhammedalkhalaf/cointests) |
 | [**cointsmall**](https://cran.r-project.org/package=cointsmall) | Cointegration Tests with Structural Breaks in Small Samples | [repo](https://github.com/muhammedalkhalaf/cointsmall) |
 | [**hatemicoint**](https://cran.r-project.org/package=hatemicoint) | Hatemi-J Cointegration Test with Two Unknown Regime Shifts | [repo](https://github.com/muhammedalkhalaf/hatemicoint) |
-| [**makicoint**](https://cran.r-project.org/package=makicoint) | Maki Cointegration Test with Multiple Structural Breaks | [repo](https://github.com/muhammedalkhalaf/makicoint) |
 | [**xtdhcoint**](https://cran.r-project.org/package=xtdhcoint) | Durbin-Hausman Panel Cointegration Tests | [repo](https://github.com/muhammedalkhalaf/xtdhcoint) |
 | [**xtbreakcoint**](https://cran.r-project.org/package=xtbreakcoint) | Panel Cointegration Tests with Structural Breaks | [repo](https://github.com/muhammedalkhalaf/xtbreakcoint) |
 
